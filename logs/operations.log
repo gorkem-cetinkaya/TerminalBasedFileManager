@@ -1,0 +1,15 @@
+[2024-12-18 18:00:50] List Files: 5 - FAILURE
+[2024-12-18 18:01:31] Delete File: /Users/gorkem/Desktop/test_permissions.txt - SUCCESS
+[2024-12-18 18:02:17] Copy File: Users/gorkem/Desktop/source.txt - FAILURE
+[2024-12-18 18:03:00] Copy File: 5 - SUCCESS
+[2024-12-18 18:03:34] Copy File: /Users/gorkem/Desktop/copyfile.txt - SUCCESS
+[2024-12-18 19:22:11] Create File: /Users/gorkem/Desktop/test_file.txt - SUCCESS
+[2024-12-18 19:22:38] Create Folder: /Users/gorkem/Desktop/test_folder - SUCCESS
+[2024-12-18 19:29:31] Move File: /Users/gorkem/Desktop/source_file.txt - SUCCESS
+[2024-12-18 19:29:48] Move File: ls - FAILURE
+[2024-12-18 19:40:35] Display File: /Users/gorkem/Desktop/display_test.txt - SUCCESS
+[2024-12-18 19:55:00] Search File: search_test.txt - SUCCESS
+[2024-12-19 09:35:31] Change Permissions: /Users/gorkem/Desktop/test_folder - SUCCESS
+[2024-12-19 09:38:19] Delete File: /Users/gorkem/Desktop/test_folder - FAILURE
+[2024-12-19 09:39:09] Delete File: /Users/gorkem/Desktop/abc - FAILURE
+[2024-12-19 09:46:58] Delete Folder: /Users/gorkem/Desktop/abc - SUCCESS
