@@ -13,3 +13,4 @@
 [2024-12-19 09:38:19] Delete File: /Users/gorkem/Desktop/test_folder - FAILURE
 [2024-12-19 09:39:09] Delete File: /Users/gorkem/Desktop/abc - FAILURE
 [2024-12-19 09:46:58] Delete Folder: /Users/gorkem/Desktop/abc - SUCCESS
+[2024-12-25 21:33:45] Create File: /Users/gorkem/Desktop/selam.txt - SUCCESS

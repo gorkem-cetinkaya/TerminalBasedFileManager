@@ -1,6 +1,9 @@
 #include <stdio.h>
 #include <stdlib.h>
+#include "directory_ops.h"
 #include "file_operations.h"
+#include "logger.h"
+#include "permissions.h"
 
 void show_menu() {
     printf("\nTerminal Based File Manager\n");
